@@ -1,5 +1,5 @@
 {
-  "name": "mon-vieux-grimoire-frontend",
+  "name": "mon-vieux-grimoire-client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
